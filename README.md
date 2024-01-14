@@ -23,7 +23,8 @@ Exécutez le Programme:
 
 ```bash
 python 3d(1) or 3d(2).py
-Assurez-vous d'avoir une webcam connectée, car le programme utilise la vidéo en direct.
 ```
+Assurez-vous d'avoir une webcam connectée, car le programme utilise la vidéo en direct.
+
 Visualisez le Résultat:
 Un plot 3D s'ouvrira pour afficher en temps réel l'estimation du squelette de pose.
