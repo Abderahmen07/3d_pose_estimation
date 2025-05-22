@@ -7,7 +7,7 @@ from matplotlib.animation import FuncAnimation
 import matplotlib.colors as mcolors
 import matplotlib.cm as cm
 EDGES = {
-    (0, 1): 'm',
+    (0, 1): 'd',
     (0, 2): 'c',
     (1, 3): 'm',
     (2, 4): 'c',
