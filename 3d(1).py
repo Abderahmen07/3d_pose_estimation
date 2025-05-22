@@ -6,7 +6,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.animation import FuncAnimation
 import matplotlib.colors as mcolors
 import matplotlib.cm as cm
-EDGES = {
+EDGES = {abdout(0, 1): 'm',
     (0, 1): 'd',
     (0, 2): 'h',
     (1, 3): 'm',
