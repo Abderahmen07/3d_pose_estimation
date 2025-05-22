@@ -5,6 +5,7 @@ import tensorflow as tf
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.animation import FuncAnimation
 import matplotlib.colors as mcolors
+import matplotlib.cm as cm
 EDGES = {
     (0, 1): 'm',
     (0, 2): 'c',
